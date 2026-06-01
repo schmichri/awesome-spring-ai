@@ -256,6 +256,8 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 
 - [Arconia Ollama Dev Service](https://arconia.io/docs/arconia/latest/dev-services/ollama/) - A Spring Boot development service that automatically manages Ollama instances for local LLM development. Simplifies testing and development with local models by handling container lifecycle and configuration. Integrates seamlessly with Spring AI's Ollama support.
 
+- [YPipe](https://ypipe.com/) ([GitHub](https://github.com/iunera/ypipe)) - A Java-native, airgapped local AI orchestration engine built with Spring AI and JavaFX that works on Linux, Windows, and macOS. It bundles a high-performance inference engine, specialized models, and MCP servers into a single zero-dependency executable or JBang script. This "Model Switchboard" enables autonomous agent workflows with 100% data sovereignty, bridging local intelligence with enterprise systems.
+
 ### Model Context Protocol
 
 #### Core Resources
